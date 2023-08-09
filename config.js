@@ -2,9 +2,9 @@ const CONFIG = {
     titleWeb: "Web cho người đẹp",
     introTitle: 'Nguyễn Ngọc Gia Linh',
     introDesc: `Muốn viết tặng cho em
-Một bài thơ nào ấy.
-Nhưng nghĩ hoài chỉ thấy
-Một từ nhớ em thôi.`,
+    Một bài thơ nào ấy.
+    Nhưng nghĩ hoài chỉ thấy
+    Một từ nhớ em thôi.`,
     btnIntro: '👉👈',
     title: 'Phải chăng em đã yêu ngay từ vẻ đẹp trai rạng ngời của anh 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
